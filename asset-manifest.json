@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/poh_crowdvoucher/static/css/main.ec7cf7c6.chunk.css",
-    "main.js": "/poh_crowdvoucher/static/js/main.ccd3c48a.chunk.js",
-    "main.js.map": "/poh_crowdvoucher/static/js/main.ccd3c48a.chunk.js.map",
+    "main.js": "/poh_crowdvoucher/static/js/main.219a9a87.chunk.js",
+    "main.js.map": "/poh_crowdvoucher/static/js/main.219a9a87.chunk.js.map",
     "runtime-main.js": "/poh_crowdvoucher/static/js/runtime-main.65ffa487.js",
     "runtime-main.js.map": "/poh_crowdvoucher/static/js/runtime-main.65ffa487.js.map",
     "static/css/2.a726b714.chunk.css": "/poh_crowdvoucher/static/css/2.a726b714.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.a726b714.chunk.css",
     "static/js/2.7396f923.chunk.js",
     "static/css/main.ec7cf7c6.chunk.css",
-    "static/js/main.ccd3c48a.chunk.js"
+    "static/js/main.219a9a87.chunk.js"
   ]
 }
